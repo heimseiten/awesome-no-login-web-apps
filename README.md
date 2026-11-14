@@ -278,6 +278,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Abc-Map](https://abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online. 
 * [KeepFormula](https://keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
 * [Random Animal Picker](https://randomanimalpicker.com/) - Discover real animals through photos, concise facts, source links, and related species without creating an account.
+* [Word Search Studio](https://www.wordsearchstudio.org/) - Makes word searches from your own word list: pick a shape and difficulty, add a secret message, then print, save a PDF or play online. Free, no account, in nine languages. Nothing is stored on a server, so keep the link or the PDF.
 
 
 <a name="text-tools"></a>
